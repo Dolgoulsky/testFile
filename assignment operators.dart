@@ -1,6 +1,3 @@
-//int posNum = 9;
-//print(posNum.isOdd);
-
 void main() {
   variant1(); // Добавить и назначить.
   variant2(); // Вычесть и присвоить.
